@@ -84,8 +84,6 @@ def generate_fake_data(batch_size=1000):
 # create_index()
 # generate_fake_data()
 
-# The rest of your code remains unchanged.
-
 
 def rrf_search(keyword_query, vector_query, rank_window_size=50, rank_constant=20):
     search_body = {
