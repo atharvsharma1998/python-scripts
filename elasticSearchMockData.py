@@ -1,6 +1,5 @@
 from elasticsearch import Elasticsearch, helpers
 from faker import Faker
-import numpy as np
 
 # Initialize Faker and Elasticsearch
 fake = Faker()
